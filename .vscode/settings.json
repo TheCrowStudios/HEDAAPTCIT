@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "winsock2.h": "c",
+        "socketfunctions.h": "c"
+    }
+}
